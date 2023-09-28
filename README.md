@@ -41,8 +41,8 @@ Customize the website by editing the following files:
 2. styles.css: Modify the styles, colors, and layout.
 3. Feel free to add additional sections or elements to the website as needed.
 
-Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines in the CONTRIBUTING.md file.
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project.
 
-License
-This project is licensed under the MIT License.
+## License
+This project is licensed under the 'MIT License'.
