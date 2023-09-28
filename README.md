@@ -24,7 +24,7 @@ To run the Parallax Website locally, follow these steps:
 
    ```bash
    git clone https://github.com/swetamishra123/Parallax-Website.git
-   cd parallax-website
+   cd Parallax-website
 
 Open the index.html file in your web browser to view the website.
 
