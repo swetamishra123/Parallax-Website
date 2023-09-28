@@ -19,7 +19,7 @@ The Parallax Website is designed to showcase the parallax scrolling effect, wher
 
 ## Demo
 
-You can experience the live demo of the Parallax Website [here](https://your-demo-url.com).
+You can experience the live demo of the Parallax Website [here](https://chimerical-platypus-eb4447.netlify.app/).
 
 ## Features
 
@@ -36,18 +36,21 @@ To run the Parallax Website locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/parallax-website.git
    cd parallax-website
+
 Open the index.html file in your web browser to view the website.
-Usage
+
+## Usage
 The Parallax Website is ready to use out of the box. You can also customize it to fit your project's needs:
 
-Modify the content in the HTML file to showcase your own information.
-Adjust the styles in the CSS file to match your branding and design preferences.
-Customization
+1. Modify the content in the 'HTML' file to showcase your own information.
+2. Adjust the styles in the 'CSS' file to match your branding and design preferences.
+
+## Customization
 Customize the website by editing the following files:
 
-index.html: Update the content and structure.
-styles.css: Modify the styles, colors, and layout.
-Feel free to add additional sections or elements to the website as needed.
+1. index.html: Update the content and structure.
+2. styles.css: Modify the styles, colors, and layout.
+3. Feel free to add additional sections or elements to the website as needed.
 
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines in the CONTRIBUTING.md file.
