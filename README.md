@@ -2,17 +2,6 @@
 
 Welcome to the Parallax Website project! This is a simple and visually engaging website that demonstrates the parallax scrolling effect using HTML and CSS.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 The Parallax Website is designed to showcase the parallax scrolling effect, where background elements move at different speeds as the user scrolls down the page. This effect creates an immersive and interactive user experience.
