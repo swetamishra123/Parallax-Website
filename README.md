@@ -23,7 +23,7 @@ To run the Parallax Website locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/parallax-website.git
+   git clone https://github.com/swetamishra123/Parallax-Website.git
    cd parallax-website
 
 Open the index.html file in your web browser to view the website.
